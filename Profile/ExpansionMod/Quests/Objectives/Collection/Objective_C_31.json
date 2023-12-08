@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 22,
+    "ID": 31,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Pay Nate to get your items repaired:",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 2500,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

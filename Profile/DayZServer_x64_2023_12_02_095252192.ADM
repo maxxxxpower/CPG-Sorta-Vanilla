@@ -1,0 +1,28 @@
+
+
+******************************************************************************
+AdminLog started on 2023-12-02 at 06:58:08
+07:00:52 | Player "maxpower" is connected (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=)
+07:02:18 | [COT] 76561198031724019: ESP: Viewing ESP
+07:02:28 | [COT] 76561198031724019: ESP target=ExpansionSafeMini:8652 position=<3559.667969, 334.780945, 6997.912598> action=delete
+07:02:30 | [COT] 76561198031724019: ESP: Clearing ESP
+07:02:45 | [COT] 76561198031724019: Spawned Entity Mini Safe (ExpansionSafeMini<8f0070b0>, 100, 10000, 0) at <3559.381348, 334.785065, 7001.495117>
+07:08:42 | Player "maxpower"(id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=) has been disconnected
+07:23:46 | Player "maxpower" is connected (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=)
+08:02:11 | [COT] 76561198031724019: Teleported to position <3576.146973, 334.105896, 6987.001465>
+08:06:59 | [COT] 76561198031724019: Teleported to position <5330.105469, 260.583618, 11328.070313>
+08:07:01 | [COT] 76561198031724019: Teleported to position <5330.105469, 260.583618, 11328.070313>
+08:09:15 | [COT] 76561198031724019: Set GodMode To true [guid=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=]
+08:09:22 | [COT] 76561198031724019: ESP: ESP updating
+08:10:33 | [COT] 76561198031724019: Spawned vehicle Olga 24 (CivilianSedan_Black) at <5290.588867, 255.798492, 11347.680664>
+08:12:29 | [COT] 76561198031724019: ESP: Clearing ESP
+08:30:01 | [COT] 76561198031724019: Set GodMode To false [guid=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=]
+08:30:05 | [COT] 76561198031724019: Healed [guid=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=]
+08:31:55 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4149.9, 5774.1, 349.7>)[HP: 99.2775] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:31:56 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4149.9, 5774.1, 349.7>)[HP: 97.03] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+08:31:58 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4150.7, 5773.8, 349.7>)[HP: 94.6925] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+08:32:07 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4158.7, 5778.5, 348.4>)[HP: 94.24] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:36:16 | Player "maxpower"(id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=) has been disconnected
+
+
+**********************************EOF****************************************

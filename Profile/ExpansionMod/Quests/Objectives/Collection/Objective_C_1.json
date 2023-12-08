@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 apples",
+    "TimeLimit": -1,
+    "Collections": [],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

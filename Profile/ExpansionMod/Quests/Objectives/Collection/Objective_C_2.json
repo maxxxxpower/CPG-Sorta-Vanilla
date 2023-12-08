@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch a mackerel",
+    "TimeLimit": -1,
+    "Collections": [],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

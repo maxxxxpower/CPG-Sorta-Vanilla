@@ -1,0 +1,17 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "UTC": 0,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 0,
+            "Minute": 30,
+            "Second": 0,
+            "Title": "Server Message",
+            "Text": "Welcome to Cat Party Gaming. Contact cpgadmin on Discord for questions.",
+            "Icon": "Info",
+            "Color": ""
+        }
+    ]
+}
