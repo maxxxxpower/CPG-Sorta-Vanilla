@@ -1,2 +1,2 @@
-# DayZSA-current
+# Sorta Vanilla by CPG - Current Settings
  
