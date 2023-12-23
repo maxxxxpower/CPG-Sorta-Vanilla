@@ -26,7 +26,98 @@
             6246.3701171875
         ]
     ],
-    "Loot": [],
-    "LootItemsAmount": 0,
+    "Loot": [
+        {
+            "Name": "SodaCan_Spite",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Lunchmeat",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pate",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Cola",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Pipsi",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PorkCan",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Fronta",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Marmalade",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pajka",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PeachesCan",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 10,
     "MaxDistance": 10.0
 }

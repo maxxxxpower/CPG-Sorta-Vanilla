@@ -3,7 +3,7 @@
     "Spatial_MinTimer": 20.0,
     "Spatial_MaxTimer": 40.0,
     "MinDistance": 140,
-    "MaxDistance": 220,
+    "MaxDistance": 420,
     "HuntMode": 6,
     "Points_Enabled": 1,
     "Locations_Enabled": 0,

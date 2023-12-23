@@ -12,17 +12,17 @@
 		"disablePersonalLight": false,
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
+			"sprintStaminaModifierErc": 0.70,
+			"sprintStaminaModifierCro": 0.70,
 			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.75,
-			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 1.0,
+			"staminaMax": 150.0,
+			"staminaKgToStaminaPercentPenalty": 1.0,
+			"staminaMinCap": 25.0,
+			"sprintSwimmingStaminaModifier": 0.10,
 			"sprintLadderStaminaModifier": 1.0,
-			"meleeStaminaModifier": 1.0,
-			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
+			"meleeStaminaModifier": 0.10,
+			"obstacleTraversalStaminaModifier": 0.10,
+			"holdBreathStaminaModifier": 0.50
 		},
 		"ShockHandlingData":
 		{
@@ -94,8 +94,8 @@
 	},
 	"MapData":
 	{
-		"ignoreMapOwnership": false,
-		"ignoreNavItemsOwnership": false,
+		"ignoreMapOwnership": true,
+		"ignoreNavItemsOwnership": true,
 		"displayPlayerPosition": false,
 		"displayNavInfo": true
 	}

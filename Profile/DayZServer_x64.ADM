@@ -1,4 +1,102 @@
 
 
 ******************************************************************************
-AdminLog started on 2023-12-02 at 09:52:52
+AdminLog started on 2023-12-22 at 18:03:17
+
+
+******************************************************************************
+AdminLog started on 2023-12-22 at 18:09:08
+18:14:34 | Player "maxpower"(id=Unknown) has been disconnected
+19:34:00 | Player "maxpower" is connected (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=)
+19:36:32 | Player "smudge" is connected (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=)
+19:44:17 | Player "Fries"(id=Unknown) has been disconnected
+19:47:05 | Player "Fries"(id=Unknown) has been disconnected
+19:50:25 | Player "Fries" is connected (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI=)
+19:52:47 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3600.6, 7060.2, 331.7>)[HP: 61.4282] hit by AI "Helga" (group="Guard" faction="Guards" pos=<3552.9, 7022.7, 334.7>) into RightLeg(5) for 154.287 damage (Bullet_308Win) with M1A SOCOM from 60.7315 meters 
+19:52:47 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3600.6, 7060.2, 331.7>)[HP: 42.8117] hit by AI "Helga" (group="Guard" faction="Guards" pos=<3552.9, 7022.7, 334.7>) into LeftLeg(10) for 74.4657 damage (Bullet_308Win) with M1A SOCOM from 60.7315 meters 
+19:52:47 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3600.6, 7060.2, 331.7>) is unconscious
+19:52:59 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.3, 7037.4, 333.6>)[HP: 57.0781] hit by AI "Indar" (group="Guard" faction="Guards" pos=<3574.0, 7034.1, 334.2>) into Torso(6) for 42.9219 damage (Bullet_762x54) with VSD from 11.7859 meters 
+19:53:00 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3601.1, 7061.6, 331.6>) regained consciousness
+19:53:00 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.0, 7036.8, 333.6>) is unconscious
+19:53:12 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3564.4, 7009.0, 340.8>)[HP: 6.25582] hit by AI "Taiki" (group="Guard" faction="Guards" pos=<3574.6, 7030.0, 334.4>) into Torso(24) for 93.7442 damage (Bullet_556x45) with M4-A1 from 24.2445 meters 
+19:53:12 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3564.4, 7009.0, 340.8>) is unconscious
+19:53:14 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.6, 7037.2, 333.6>) regained consciousness
+19:53:25 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3564.3, 7008.4, 340.8>) regained consciousness
+19:53:27 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.7, 7036.2, 333.6>)[HP: 29.2007] hit by AI "Taiki" (group="Guard" faction="Guards" pos=<3576.7, 7033.5, 334.0>) into Torso(16) for 28.6883 damage (Bullet_556x45) with M4-A1 from 9.37065 meters 
+19:53:27 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.5, 7035.7, 333.7>)[HP: 0.580551] hit by AI "Taiki" (group="Guard" faction="Guards" pos=<3576.9, 7033.4, 334.0>) into Torso(16) for 28.7101 damage (Bullet_556x45) with M4-A1 from 8.84125 meters 
+19:53:28 | Player "maxpower" (DEAD) (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.4, 7035.6, 333.7>)[HP: 0] hit by AI "Taiki" (group="Guard" faction="Guards" pos=<3577, 7033.4, 334.0>) into Torso(24) for 28.7171 damage (Bullet_556x45) with M4-A1 from 8.75503 meters 
+19:53:28 | Player "maxpower" (DEAD) (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<3585.4, 7035.6, 333.7>) killed by AI "Taiki" (group="Guard" faction="Guards" pos=<3577, 7033.4, 334.0>) with M4-A1 from 8.75503 meters 
+19:53:35 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3597.8, 7059.5, 331.9>) is unconscious
+19:54:07 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3598.7, 7058.3, 331.8>) regained consciousness
+19:54:30 | [COT] 76561198031724019: Healed [guid=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=]
+19:54:35 | [COT] 76561198031724019: Set Broken Legs To false [guid=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI=]
+19:54:35 | [COT] 76561198031724019: Healed [guid=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI=]
+19:54:49 | [COT] 76561198031724019: Teleported to position <3595.927734, 332.982147, 7033.817383>
+19:58:56 | [COT] 76561198031724019: Healed [guid=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=]
+20:01:10 | Player "smudge"(id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=) has been disconnected
+20:05:40 | Player "smudge" is connected (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=)
+20:30:17 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4948.1, 7869.6, 333.3>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+20:30:29 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4946.9, 7872.6, 333.6>)[HP: 98.8942] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+20:30:31 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4948.1, 7872.6, 333.5>)[HP: 98.3417] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+20:35:38 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<4580.4, 9512.3, 339.0>)[HP: 95.58] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+20:36:10 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4512.8, 9639.7, 339.0>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:36:54 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4514.5, 9646.6, 340.0>)[HP: 97.8325] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:36:59 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4509.8, 9646.1, 339.0>)[HP: 97.2871] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:36:59 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4509.8, 9646.1, 339.0>)[HP: 94.9496] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:01 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4509.4, 9646.2, 339.2>)[HP: 92.6121] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:31 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4487.2, 9756.6, 339.0>)[HP: 91.691] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:38:05 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<4486.7, 9743.7, 339.2>)[HP: 91.9448] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:48:09 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4985.7, 12957.6, 170.1>)[HP: 98.245] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+20:48:10 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<4985.7, 12957.6, 170.1>)[HP: 96.04] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+20:55:32 | Player "maxpower" (id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk= pos=<5844.1, 10105, 277.7>)[HP: 98.1937] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:56:00 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<5850.2, 10110.1, 277.7>)[HP: 98.6188] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+20:56:03 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<5849.8, 10107.9, 278.1>)[HP: 97.0513] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+21:04:06 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3570.1, 6981.8, 334.2>)[HP: 95.58] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+21:06:07 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3607.7, 6978.6, 333.9>)[HP: 97.1426] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3606.5, 6977.5, 333.9>) into Torso(21) for 2.04 damage (MeleeSoft) with Rooster
+21:06:14 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.5, 6982.8, 333.9>)[HP: 92.5626] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3609.0, 6983.2, 333.9>) into Torso(32) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:17 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3610.2, 6981.7, 333.9>)[HP: 87.8926] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3610.4, 6982.7, 333.9>) into Torso(24) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:19 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.7, 6980.4, 333.9>)[HP: 87.3876] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3610.3, 6981.5, 333.9>) into RightArm(17) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:20 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.3, 6979.2, 333.9>)[HP: 82.6276] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3609.5, 6980.3, 333.9>) into Torso(32) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:21 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.1, 6978.3, 333.9>)[HP: 79.4451] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3609.1, 6979.2, 333.9>) into Head(0) for 1.63625 damage (MeleeSoft_Heavy) with Rooster
+21:06:25 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3612.6, 6977.1, 333.9>)[HP: 78.9401] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3611.6, 6977.4, 333.9>) into LeftArm(22) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:27 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3612.8, 6976.8, 333.9>)[HP: 99.745] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3611.9, 6977.3, 333.9>) into LeftArm(18) for 2.55 damage (MeleeSoft) with Hen
+21:06:28 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3612.1, 6977.1, 333.9>)[HP: 98.98] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3611.2, 6977.1, 333.9>) into Torso(24) for 0.765 damage (MeleeSoft) with Hen
+21:06:28 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3611.2, 6977.1, 333.9>)[HP: 74.2702] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3612.1, 6977.1, 333.9>) into Torso(1) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:29 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3610.3, 6977.2, 333.9>)[HP: 69.5102] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3611.8, 6977.1, 333.9>) into Torso(32) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:29 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.7, 6977.3, 333.9>)[HP: 64.7502] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3611.4, 6977.2, 333.9>) into Torso(24) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:31 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3610.6, 6977.1, 333.9>)[HP: 98.7895] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.3, 6977.4, 333.9>) into LeftHand(46) for 2.55 damage (MeleeSoft) with Hen
+21:06:31 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3609.6, 6976.9, 333.9>)[HP: 98.509] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3609.7, 6977.5, 333.9>) into RightHand(47) for 2.55 damage (MeleeSoft) with Hen
+21:06:32 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3610.4, 6977.2, 333.9>)[HP: 61.5678] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3609.7, 6977.1, 333.9>) into Head(0) for 1.63625 damage (MeleeSoft_Heavy) with Rooster
+21:06:33 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3610.9, 6976.5, 333.9>)[HP: 56.8978] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3610.2, 6977.1, 333.9>) into Torso(42) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:34 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3611.5, 6976.8, 333.9>)[HP: 52.1378] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3610.5, 6977.0, 333.9>) into Torso(24) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:35 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3612.3, 6977.3, 333.9>)[HP: 51.5428] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3611.0, 6976.7, 333.9>) into LeftArm(22) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:38 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3614.5, 6977.3, 333.9>)[HP: 98.4341] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3615.5, 6976.8, 333.9>) into LeftArm(18) for 2.55 damage (MeleeSoft) with Hen
+21:06:38 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3615.5, 6976.7, 333.9>)[HP: 50.9784] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3614.7, 6977.2, 333.9>) into LeftHand(46) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:39 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3616.3, 6976.3, 333.9>)[HP: 46.3085] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3615.2, 6976.9, 333.9>) into Torso(16) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:40 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3616.8, 6976.0, 333.9>)[HP: 45.7135] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3615.5, 6976.7, 333.9>) into LeftArm(22) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:41 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3617.7, 6975.5, 333.9>)[HP: 45.059] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3616.3, 6976.4, 333.9>) into RightHand(47) for 5.95 damage (MeleeSoft_Heavy) with Rooster
+21:06:42 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3618.8, 6974.7, 333.9>)[HP: 40.389] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3617.5, 6975.9, 333.9>) into Torso(24) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:44 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3619.8, 6973.2, 333.9>)[HP: 35.629] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3618.9, 6974.4, 333.9>) into Torso(29) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:45 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3621.0, 6972.9, 333.9>)[HP: 32.4465] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3620.0, 6973.3, 333.9>) into Head(0) for 1.63625 damage (MeleeSoft_Heavy) with Rooster
+21:06:55 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3645.1, 6934.6, 333.8>)[HP: 98.2099] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.8, 6933.9, 333.8>) into Torso(31) for 0.765 damage (MeleeSoft) with Hen
+21:06:56 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3645.5, 6934.2, 333.8>)[HP: 97.9549] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.7, 6934.2, 333.8>) into RightArm(17) for 2.55 damage (MeleeSoft) with Hen
+21:06:56 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.7, 6934.3, 333.8>)[HP: 27.9565] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3645.5, 6934.2, 333.8>) into Torso(1) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:06:57 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.7, 6933.6, 333.8>)[HP: 26.0066] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3645.3, 6934.2, 333.8>) into Torso(31) for 2.04 damage (MeleeSoft) with Rooster
+21:06:58 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3645.2, 6934.2, 333.8>)[HP: 97.7644] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.6, 6933.5, 333.8>) into LeftHand(46) for 2.55 damage (MeleeSoft) with Hen
+21:06:58 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3644.9, 6933.9, 333.8>)[HP: 96.9994] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.3, 6933.2, 333.8>) into Torso(41) for 0.765 damage (MeleeSoft) with Hen
+21:06:58 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3644.3, 6933.2, 333.8>)[HP: 22.7341] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3644.9, 6933.9, 333.8>) into Head(0) for 1.63625 damage (MeleeSoft_Heavy) with Rooster
+21:06:59 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3643.5, 6932.9, 333.8>)[HP: 22.4536] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3644.7, 6933.7, 333.8>) into RightHand(47) for 2.55 damage (MeleeSoft) with Rooster
+21:07:00 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3643.6, 6933.1, 333.8>)[HP: 17.7837] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3644.5, 6933.3, 333.8>) into Torso(21) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:07:01 | Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3643.1, 6932.4, 333.8>)[HP: 13.0237] hit by Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3643.9, 6933.4, 333.8>) into Torso(21) for 4.76 damage (MeleeSoft_Heavy) with Rooster
+21:07:01 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3644, 6933.4, 333.8>)[HP: 96.3244] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3643.3, 6932.6, 333.8>) into Torso(31) for 0.765 damage (MeleeSoft) with Hen
+21:07:07 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3646.4, 6936.3, 333.8>)[HP: 95.7394] hit by Player "smudge" (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3645.8, 6935.6, 333.8>) into Torso(24) for 0.765 damage (MeleeSoft) with Hen
+21:10:30 | Player "Fries" (id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI= pos=<3750.4, 7301, 313.8>)[HP: 74.1078] hit by AI "Guo" (group="Raider" faction="Raiders" pos=<3721.7, 7214.0, 320.6>) into Torso(6) for 25.8922 damage (Bullet_556x45) with KA-101 from 91.8244 meters 
+21:11:26 | Player "smudge" (DEAD) (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3763.7, 7281.0, 313.7>)[HP: 0] hit by AI "Linda" (group="Raider" faction="Raiders" pos=<3716.1, 7259.3, 318.9>) into LeftLeg(10) for 90.4842 damage (Bullet_545x39) with KA-74 from 52.6071 meters 
+21:11:26 | Player "smudge" (DEAD) (id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0= pos=<3763.7, 7281.0, 313.7>) killed by AI "Linda" (group="Raider" faction="Raiders" pos=<3716.1, 7259.3, 318.9>) with KA-74 from 52.6071 meters 
+21:12:29 | [COT] 76561198031724019: Teleported [guid=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI=] to <4136.707031, 305.491394, 7954.087891>
+21:12:38 | [COT] 76561198031724019: Teleported [guid=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=] to <4136.104492, 305.477173, 7954.303223>
+21:13:23 | [COT] 76561198031724019: Bleeding stopped [guid=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=]
+21:13:23 | [COT] 76561198031724019: Healed [guid=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=]
+21:19:20 | Player "maxpower"(id=ePE6piZ5KdM1Ns8M242PRSfTNtXiTWKJqax-9_UhNFk=) has been disconnected
+21:23:38 | Player "Fries"(id=EQLD8ivBKGrm56RsmdMuCoVSeTKSrpLp2JTnaT5y7SI=) has been disconnected
+21:24:31 | Player "smudge"(id=RJ3ZJHCDOzyw7CdcjB6fw1lF8uQ7Emn_tDwSDmYnMA0=) has been disconnected
