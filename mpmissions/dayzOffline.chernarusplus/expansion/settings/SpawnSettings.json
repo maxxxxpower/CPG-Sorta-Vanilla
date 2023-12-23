@@ -27,6 +27,17 @@
             ],
             "UseCooldown": 1
         },
+        
+            "Name": "Green Mountain Trading",
+            "Positions": [
+                [
+                    3729.44,
+                    401.85,
+                    6009.54
+                ]
+            ],
+            "UseCooldown": 1
+        },
         {
             "Name": "Berezino",
             "Positions": [
