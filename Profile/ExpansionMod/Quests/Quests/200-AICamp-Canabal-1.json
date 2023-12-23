@@ -8,7 +8,7 @@
         "Eliminate all of the Cannibals at the camp.",
         "Nice work! Hopefully thats the last of those fuckers, here is your payment."
     ],
-    "ObjectiveText": "Kill all Cannnibals at the marked location.",
+    "ObjectiveText": "Kill all Cannibals at the marked location.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -21,7 +21,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 2500,
+            "Amount": 2000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
