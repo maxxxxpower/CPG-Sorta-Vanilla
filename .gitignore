@@ -1,4 +1,6 @@
 
+*.RPT
+*.ADM
 mpmissions/dayzOffline.chernarusplus/storage_1
 Profile/CommunityOnlineTools/Webhooks.json
 Profile/PermissionsFramework
